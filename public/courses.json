@@ -1,0 +1,83 @@
+[
+    {
+      "id": "001",
+      "course_name": "Complete Web Development Bootcamp",
+      "short_description": "Master the essential technologies for building responsive and dynamic websites.",
+      "course_price": 12000,
+      "credit_hour": 40,
+      "course_thumbnail": "https://i.ibb.co/MRxvhs6/5a108056-a070-44ee-a123-1afd489077e0.jpg",
+      "description": "In this comprehensive bootcamp, you'll dive deep into web development. From HTML and CSS basics to advanced JavaScript frameworks like React.js and Node.js, this course covers it all. By the end, you'll have the skills to create stunning, interactive websites from scratch."
+    },
+    {
+      "id": "002",
+      "course_name": "JavaScript Fundamentals",
+      "short_description": "Learn the core concepts of JavaScript programming language.",
+      "course_price": 15000,
+      "credit_hour": 20,
+      "course_thumbnail": "https://i.ibb.co/kcz16Bh/59ef996d1981d-thumb900.webp",
+      "description": "JavaScript is the backbone of modern web development. In this course, you'll explore the fundamentals of JavaScript, including variables, data types, control structures, functions, and more. Whether you're a beginner or looking to refresh your skills, this course is perfect for you."
+    },
+    {
+      "id": "003",
+      "course_name": "Responsive Web Design",
+      "short_description": "Build websites that adapt to various screen sizes and devices.",
+      "course_price": 10000,
+      "credit_hour": 30,
+      "course_thumbnail": "https://i.ibb.co/LP66d9B/e-learning-online-courses-video-web-banner-thumbnail-design-673898-399.jpg",
+      "description": "In the age of smartphones and tablets, responsive web design is essential. This course teaches you how to create websites that look great on any device. You'll learn CSS techniques like media queries and flexbox to ensure your websites are responsive and user-friendly."
+    },
+    {
+      "id": "004",
+      "course_name": "HTML5 and CSS3 Essentials",
+      "short_description": "Explore the latest features of HTML5 and CSS3 to create modern web pages.",
+      "course_price": 12500,
+      "credit_hour": 25,
+      "course_thumbnail": "https://i.ibb.co/YZGpQG2/free-web-development-certification-course-in-hindi-thumbnail.webp",
+      "description": "HTML5 and CSS3 have revolutionized web design. In this course, you'll learn the latest features of HTML5 and CSS3, including semantic markup, responsive layouts, animations, and more. Whether you're a beginner or an experienced developer, this course will take your skills to the next level."
+    },
+    {
+      "id": "005",
+      "course_name": "Python for Beginners",
+      "short_description": "Get started with Python programming language from scratch.",
+      "course_price": 20000,
+      "credit_hour": 35,
+      "course_thumbnail": "https://i.ibb.co/PZWMQGC/main-qimg-f9514ea83444ef5dfded019d798ca48b-lq.jpg",
+      "description": "Python is one of the most popular programming languages today. In this beginner-friendly course, you'll learn the fundamentals of Python programming, including variables, data types, control structures, functions, and more. By the end, you'll be ready to tackle real-world projects with Python."
+    },
+    {
+      "id": "006",
+      "course_name": "Java Programming Masterclass",
+      "short_description": "Become proficient in Java programming with hands-on projects and exercises.",
+      "course_price": 11000,
+      "credit_hour": 40,
+      "course_thumbnail": "https://i.ibb.co/VDJMwn9/Online-Courses-vs-Offline-Courses-1200x0-c-default.png",
+      "description": "Java is a versatile and powerful programming language used in a wide range of applications. In this masterclass, you'll learn Java programming from scratch, covering topics like object-oriented programming, data structures, algorithms, and more. With hands-on projects and exercises, you'll gain the skills you need to succeed as a Java developer."
+    },
+    {
+      "id": "007",
+      "course_name": "React.js Crash Course",
+      "short_description": "Learn React.js framework to build dynamic and interactive user interfaces.",
+      "course_price": 25000,
+      "credit_hour": 45,
+      "course_thumbnail": "https://i.ibb.co/nkrjTdB/Screenshot-2022-02-04-at-16-14-46.png",
+      "description": "React.js is a popular JavaScript library for building user interfaces. In this crash course, you'll learn the fundamentals of React.js, including components, state management, routing, and more. By the end, you'll be able to build dynamic and interactive web applications with React.js."
+    },
+    {
+      "id": "008",
+      "course_name": "Node.js Fundamentals",
+      "short_description": "Discover the basics of Node.js for server-side JavaScript development.",
+      "course_price": 9000,
+      "credit_hour": 30,
+      "course_thumbnail": "https://i.ibb.co/zHCxmHW/Web-Development-short-thumbnail.jpg",
+      "description": "Node.js allows you to build scalable and efficient web applications using JavaScript on the server-side. In this course, you'll learn the basics of Node.js, including asynchronous programming, event-driven architecture, Express.js framework, and more. Whether you're a frontend developer looking to expand your skills or a backend developer transitioning to Node.js, this course is for you."
+    },
+    {
+      "id": "009",
+      "course_name": "SQL Database Essentials",
+      "short_description": "Learn SQL to manage and manipulate relational databases efficiently.",
+      "course_price": 13000,
+      "credit_hour": 25,
+      "course_thumbnail": "https://i.ibb.co/g6KByL2/web-development-training.jpg",
+      "description": "SQL is the standard language for managing relational databases. In this course, you'll learn SQL fundamentals, including database design, querying data, modifying data, and more. Whether you're a web developer, data analyst, or aspiring data scientist, understanding SQL is essential for managing and manipulating data efficiently."
+    }
+  ]
